@@ -1,0 +1,16 @@
+id: IBBDADC29
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:07:50.883396
+last_modified: 2023-02-08 16:07:50.883494
+source_metadata:
+  title: Tārānamaskāraikaviṃśatistotra
+  language: zh
+bases:
+  0658:
+    base_file: 0658.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
